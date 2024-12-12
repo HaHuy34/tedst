@@ -16,16 +16,16 @@ body {
     background-color: #fff;
   }
 
-  /* .image-container img {
-    width: auto;
+  .image-container img {
+    width: 100%git;
     height: auto;
     max-width: none;
     max-height: none;
-    position: absolute;
+    /* position: absolute;
     top: 0;
-    left: 0;
+    left: 0; */
     transition: transform 0.2s ease, top 0.2s ease, left 0.2s ease;
-  } */
+  }
 
   .image-container {
     cursor: crosshair;
